@@ -1,6 +1,6 @@
 # Microsoft RDI 2021
 
-> ## Problem descriptions
+> ## Problems to solve
 
 - Bing Big Man
 - Tomsan the SEL Parser
