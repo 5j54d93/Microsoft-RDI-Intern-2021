@@ -1,4 +1,4 @@
-# Microsoft RDI Intern 2021
+# 微軟 Microsoft RDI Intern 2021
 
 有一個人全對 528 分。  
 我拿了 328 分，排名 23，但蠻多人和我同分的。  
@@ -10,7 +10,7 @@
 - [x] The Ding Legacy
 - [ ] Jacky's Perfect Advertising Slogan
 
-> ## Problems to solve
+> ## 題目資訊 Problem informations
 
 |題目 Problem|提交次數 Total|答對率 AC Rate|分數 Score|
 |:----|:---:|:---:|:---:|
