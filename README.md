@@ -12,7 +12,7 @@
 
 > ## Problems to solve
 
-|題目|Total|AC Rate|Score|
+|題目 Problem|提交次數 Total|答對率 AC Rate|分數 Score|
 |:----|:---:|:---:|:---:|
 |[Bing Big Man](https://github.com/5j54d93/Microsoft-RDI-Intern-2021/tree/main/Bing%20Big%20Man)|1406|3.56%|100|
 |[Tomsan the SEL Parser](https://github.com/5j54d93/Microsoft-RDI-Intern-2021/tree/main/Tomsan%20the%20SEL%20Parser)|374|24.06%|100|
