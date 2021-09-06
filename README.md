@@ -35,3 +35,7 @@
 ## Microsoft One Day Intern：Rank
 
 <img src="https://github.com/5j54d93/Microsoft-RDI-Intern-2021/blob/main/Photos/Microsoft%20One%20Day%20Intern：Rank.png" width='100%' height='100%'/>
+
+## License
+
+This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/Microsoft-RDI-Intern-2021/blob/main/LICENSE) for details.
