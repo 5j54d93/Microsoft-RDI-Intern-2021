@@ -1,4 +1,4 @@
-# Microsoft RDI Intern 2021
+# Microsoft One Day RDI Intern 2021
 
 有一個人全對 528 分。  
 我拿了 328 分，排名 23，但蠻多人和我同分的。  
