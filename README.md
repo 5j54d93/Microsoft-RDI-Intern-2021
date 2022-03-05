@@ -1,5 +1,9 @@
 # Microsoft One Day RDI Intern 2021
 
+[![GitHub license](https://img.shields.io/github/license/5j54d93/Microsoft-RDI-Intern-2021)](https://github.com/5j54d93/Microsoft-RDI-Intern-2021/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/5j54d93/Microsoft-RDI-Intern-2021)](https://github.com/5j54d93/Microsoft-RDI-Intern-2021/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/5j54d93/Microsoft-RDI-Intern-2021)
+
 - there are more than 80 people that attended this RDI intern pretest
 - one person that got the highest score 528
 - I got score 328 with rank 23
